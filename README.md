@@ -918,4 +918,4 @@ Date|Method|Conference|Paper Title and Paper Interpretation (In Chinese)|Code
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ddz16/TSFpaper&type=Date)](https://star-history.com/#ddz16/TSFpaper&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=ddz16/TSFpaper&type=Date)](https://star-history.dera.page/#ddz16/TSFpaper&Date)
